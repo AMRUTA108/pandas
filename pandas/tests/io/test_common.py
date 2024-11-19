@@ -16,7 +16,7 @@ from pathlib import Path
 import pickle
 import tempfile
 
-import numpy as np
+import numpy as n
 import pytest
 
 from pandas._config import using_string_dtype
